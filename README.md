@@ -81,7 +81,8 @@ El problema afecta directamente a dos grupos: el equipo de administración del H
 |---|---|---|
 | 28-08-2026 | Enfocar la primera presentación de avance exclusivamente en el problema y no proponer una solución técnica todavía. | Criterio de la pauta de evaluación del profesor, la cual exige centrarse en la "formulación preliminar del problema" y los usuarios antes de idear soluciones. |
 | 30-08-2026 | Dividir al equipo en dos frentes de trabajo paralelos para las próximas dos semanas (levantamiento en terreno vs. configuración técnica). | Criterio de eficiencia y multidisciplinariedad: aprovechar los perfiles de Industrial para el mapeo del Hub, y los de Informática/Electrónica para preparar el entorno de desarrollo y diagrama digital. |
-
+| 06-10-2026 | Centrar el foco del problema en la falta de digitalización del proceso de reserva de espacios del Hub Providencia. | Información recopilada directamente en terreno durante la visita guiada y las entrevistas con el personal del Hub Providencia. |
+| 20-10-2026 | Desarrollar tres alternativas de solución distintas para el sistema de reservas en lugar de presentar solo la propuesta web inicial. | Indicación y retroalimentación directa del docente en la sesión online para justificar técnicamente la viabilidad de la solución elegida en la próxima presentación. |
 
 ## Próximo hito
 
