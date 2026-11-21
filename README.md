@@ -11,8 +11,6 @@
 
 🌐 **Ver página web:** [Acceder a Keypoint Hub Providencia](https://goderickgrez-um.github.io/keypoint-hub-providencia/#u-inicio)
 
-![Foto del equipo](imagenes/S01/foto-equipo.jpg)
-
 ## Descripción
 
 Este proyecto aborda la ineficiencia en la gestión y reserva de espacios (salas, cowork y laboratorios) en el Hub Providencia. Actualmente, el control de la demanda depende de procesos manuales y múltiples canales, como el correo electrónico, lo que genera sobrecarga en la administración, falta de historial consolidado y fricción para los usuarios. El objetivo es digitalizar y automatizar el ciclo de reservas, reduciendo tareas manuales y generando métricas de uso reales para apoyar la toma de decisiones estratégicas de la Municipalidad.
